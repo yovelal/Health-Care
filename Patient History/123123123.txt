@@ -1,0 +1,44 @@
+
+
+Date: 15/07/2022 11:56:56
+{'WBC': 122.0, 'Neut': 50.0, 'Lymph': 50.0, 'RBC': 122.0, 'HCT': 50.0, 'Urea': 122.0, 'Hb': 122.0, 'Creatinine': 122.0, 'Iron': 122.0, 'HDL': 122.0, 'AP': 122.0, 'gender': 'F', 'Id': '123123123', 'origin': 'Other', 'age': 26, 'smoker': 'Yes', 'Fever': 'No', 'pregnancy': 'No', 'diarrhea': 'No', 'vomiting': 'No'}
+
+Diagnoses: Kidney disease
+Treatment: balancing blood sugar levels
+Diagnoses: Smokers
+Treatment: quit smoking
+
+In addition there are concerns:
+Diagnoses: Diet
+Treatment: To coordinate an appointment with a nutritionist
+Diagnoses: Disorder of blood formation / blood cells
+Treatment: 10 mg pill of B12 and 5 mg pill of folic acid per day for one month
+Diagnoses: Dehydration
+Treatment: complete rest when lying down, returning fluids to drinking
+Diagnoses: Viral disease
+Treatment: rest at home
+Diagnoses: Bile duct diseases
+Treatment: referral to surgical treatment
+Diagnoses: Liver disease
+Treatment: referral to a specific diagnosis for treatment
+Diagnoses: Muscle diseases
+Treatment: two 5 mg pills of Altman c3 turmeric a day for a month
+Diagnoses: Lung disease
+Treatment: stop smoking / refer to X-ray of the lungs
+Diagnoses: Hypothyroidism
+Treatment: Propylthiouracil to reduce thyroid activity
+Diagnoses: Increased consumption of meat
+Treatment: To coordinate an appointment with a nutritionist
+Diagnoses: Use of various drugs
+Treatment: Referral to a family doctor for a match between medications
+
+
+Date: 15/07/2022 12:07:11
+{'WBC': 122.0, 'Neut': 50.0, 'Lymph': 50.0, 'RBC': 122.0, 'HCT': 50.0, 'Urea': 122.0, 'Hb': 122.0, 'Creatinine': 122.0, 'Iron': 122.0, 'HDL': 122.0, 'AP': 122.0, 'gender': 'F', 'Id': '123123123', 'origin': 'Other', 'age': 26, 'smoker': 'Yes', 'Fever': 'No', 'pregnancy': 'No', 'diarrhea': 'No', 'vomiting': 'No'}
+
+Diagnoses: Viral disease
+Treatment: rest at home
+Diagnoses: Kidney disease
+Treatment: balancing blood sugar levels
+Diagnoses: Smokers
+Treatment: quit smoking
