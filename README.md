@@ -1,8 +1,8 @@
 # Health-Care
 
 Requirements:
-pip install pyqt5
-pip install pyqt5-tools
+pip install pyqt5 |
+pip install pyqt5-tools |
 pip install openpyxl
 
 RUN main.py
